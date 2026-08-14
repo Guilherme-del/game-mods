@@ -24,11 +24,9 @@ There is no intention to harm communities, developers, or the integrity of onlin
 
 ## 🧩 Repository Structure
 
-Each game/mod may include:
-- Mod source code
-- Installation instructions
-- Game-specific notes
-- Compatibility warnings
+Each game/mod includes its own dedicated folder, source code, and launcher:
+- [`repair-this/`](repair-this/) — Mod Manager for Repair This! (Unity)
+- [`scratch-the-ticket/`](scratch-the-ticket/) — Mod Manager Suite for Scratch the Ticket (Unreal Engine 5)
 
 The structure may vary depending on the game and engine used.
 
